@@ -1,7 +1,7 @@
 # HesaplaJavaGui
 ### info
 ________________
-Kullanıcıdan iki değer alacak. Programda aşağıdaki işlemler gerçekleştirilebilir.
+Program kullanıcıdan iki değer alacak. Programda aşağıdaki işlemler gerçekleştirilebilir.
 
 (Program will take two numbers from user. The following operations can be performed in the program)
 

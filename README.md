@@ -23,9 +23,9 @@ ________________
 ### contact
 ________________
 
-- [personal](https://oets.net/)
-- [linkedin](https://linkedin.com/in/oets)
-- [twitter/@oetsnet](https://twitter.com/oetsnet)
-- [instagram/@oetsnet](https://instagram.com/oetsnet)
+- [personal](https://tariksune.com/)
+- [linkedin](https://linkedin.com/in/tariksune)
+- [twitter/@tariksune](https://twitter.com/tariksune)
+- [instagram/@tariksune](https://instagram.com/tariksune)
 
->created by oetsnet
+>created by tariksune

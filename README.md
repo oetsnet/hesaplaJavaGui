@@ -20,12 +20,8 @@ Program kullanıcıdan iki değer alacak. Programda aşağıdaki işlemler gerç
 ________________
 ![](https://raw.githubusercontent.com/tariksune/hesaplaJavaGui/master/screenshot.png)
 
-### contact
+#### #wheretofindme 📍
 ________________
-
-- [personal](https://tariksune.com/)
-- [linkedin](https://linkedin.com/in/tariksune)
-- [twitter/@tariksune](https://twitter.com/tariksune)
-- [instagram/@tariksune](https://instagram.com/tariksune)
-
->created by tariksune
+- twitter: https://www.twitter.com/tariksune
+- linkedin: https://linkedin.com/in/tariksune
+- medium: https://www.medium.com/@tariksune
